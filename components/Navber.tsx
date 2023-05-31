@@ -68,7 +68,7 @@ const Navber = () => {
           </ul>
         </nav>
         <nav className="navbar-end">
-          <a className="btn">Get started</a>
+          <a className="btn btn-secondary">Get started</a>
         </nav>
       </div>
     </header>

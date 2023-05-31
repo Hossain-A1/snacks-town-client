@@ -45,7 +45,7 @@ const Hero = () => {
                 <h2 data-swiper-parallax="-500%" className="lg:text-6xl text-4xl text-white font-semibold">{slide.title}</h2>
                 <p data-swiper-parallax="-700%" className="text-gray-100">{slide.para}</p>
                 <div data-swiper-parallax="-900%">
-                <Link href={"/products"} className="btn">{slide.cta}</Link>
+                <Link href={"/products"} className="btn btn-secondary">{slide.cta}</Link>
                 </div>
               </div>
             </div>
